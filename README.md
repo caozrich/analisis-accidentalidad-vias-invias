@@ -100,8 +100,49 @@ analisis estadistico:
 
 ## 3) Fase de "Visualize" (Visualizar):
 
+En esta parte del analisis usaremos PowerBI para crear graficos que nos permitan detecertar posibles patrones y tendencias en los datos.
+
+![dashboard](https://github.com/caozrich/analisis-accidentalidad-vias-invias/assets/34092193/cbd10cde-8668-4139-9933-17855936594e)
 
 
+* Los municipios de Córdoba, Antioquia y Boyacá presentan el mayor número de accidentes registrados.
+* El año 2017 registró el mayor número de accidentes, alcanzando un pico de 1,574 en el segundo trimestre. Desde el cuarto trimestre de 2020, se observa una disminución gradual en la cantidad de accidentes.
+* La tendencia en el número de muertes a causa de accidentes ha sido a la baja desde 2017.
+* Las tres causas más comunes de accidentes son: no mantener la distancia de seguridad, exceso de velocidad e inexperiencia en el manejo.
+* El tipo de accidente más frecuente es la colisión, seguido por el volcamiento.
+* La causa que registra la mayor tasa de mortalidad es el atropello.
+* La hora con mayor incidencia de accidentes es a las 16:00.
+* El 15% de los accidentes ocurren en condiciones de lluvia.
+* Un 39% de los accidentes suceden en curvas, mientras que el 57% ocurren en tramos rectos.
+* La mayoría de los accidentes ocurren en terrenos montañosos.
+
+## Conclusiones:
+
+* Geografía de Accidentes: Los departamentos de Córdoba, Antioquia y Boyacá presentan una alta concentración de accidentes. Esto sugiere la necesidad de implementar medidas de seguridad vial específicas en estas regiones.
+
+* Tendencia de Accidentes: A lo largo de los años, hemos observado un aumento en el número de accidentes hasta 2017, seguido de un descenso gradual. Esta tendencia podría estar relacionada con cambios en la infraestructura vial, políticas de seguridad vial o condiciones económicas.
+
+* Disminución de Mortalidad: La tendencia a la baja en el número de muertes por accidentes es un indicador positivo de las medidas de seguridad vial implementadas en Colombia. Sin embargo, la seguridad vial sigue siendo un desafío.
+
+* Causas de Accidentes: Las tres causas principales de accidentes (no mantener distancia de seguridad, exceso de velocidad e inexperiencia en el manejo) resaltan la importancia de la educación vial y la aplicación efectiva de las normativas de tráfico.
+
+* Tipos de Accidentes: Las colisiones y los volcamientos son los tipos de accidentes más comunes. Esto podría indicar la necesidad de enfoques específicos para reducir estos tipos de incidentes.
+
+* Causa Mortal: El atropello es la causa que presenta un mayor índice de mortalidad. Esto resalta la importancia de tomar medidas para proteger a los peatones y mejorar la seguridad en las vías.
+
+##  Recomendaciones:
+
+* Estrategias de Prevención: Implementar programas de educación vial y campañas de concienciación para abordar las causas comunes de accidentes, como el incumplimiento de la distancia de seguridad y el exceso de velocidad.
+
+* Seguridad en Carreteras: Realizar evaluaciones y mejoras en la infraestructura vial, especialmente en áreas montañosas y curvas, para reducir la incidencia de accidentes.
+
+* Seguridad en Condiciones Climáticas Adversas: Reforzar las medidas de seguridad en condiciones climáticas adversas, como la lluvia, para reducir los accidentes relacionados con estas condiciones.
+
+* Vigilancia y Cumplimiento: Reforzar la vigilancia y la aplicación de las normativas de tráfico, especialmente en áreas con altas tasas de accidentes.
+
+* Investigación de Accidentes: Continuar investigando a fondo los accidentes para identificar patrones y causas específicas, lo que permitirá desarrollar estrategias de prevención más efectivas.
+
+Estas recomendaciones están destinadas a mejorar la seguridad vial en las carreteras controladas por el INVIAS en Colombia y reducir la incidencia de accidentes y sus consecuencias.
 
 
 
