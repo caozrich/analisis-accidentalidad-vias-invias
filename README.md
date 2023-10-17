@@ -63,7 +63,7 @@ Registro del Proceso de ETL:
 
 ## 3) Fase de "Analyze" (Analizar):
 
-analisis estadistico:
+### Analisis estadístico:
 
 |          | n_heridos | n_muertos | n_victimas |
 |----------|-----------|-----------|------------|
