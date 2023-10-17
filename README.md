@@ -104,6 +104,8 @@ En esta parte del analisis usaremos PowerBI para crear graficos que nos permitan
 
 ![dashboard](https://github.com/caozrich/analisis-accidentalidad-vias-invias/assets/34092193/cbd10cde-8668-4139-9933-17855936594e)
 
+[Enlace al Dahboard](https://app.powerbi.com/view?r=eyJrIjoiNzk2MWQ2NGEtOGY3YS00ZjRhLWIxOTEtMzRiZDIwM2Y1NWRkIiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
+
 
 * Los municipios de Córdoba, Antioquia y Boyacá presentan el mayor número de accidentes registrados.
 * El año 2017 registró el mayor número de accidentes, alcanzando un pico de 1,574 en el segundo trimestre. Desde el cuarto trimestre de 2020, se observa una disminución gradual en la cantidad de accidentes.
