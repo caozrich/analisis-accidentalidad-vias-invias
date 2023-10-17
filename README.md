@@ -42,18 +42,18 @@ Limitaciones:
 
 Variables Relevantes:
 
-Territorial: municipio o región en el que ocurrió el accidente.
-Fecha_acc: fecha en la cual sucedió el evento.
-Día_semana_acc: día de la semana en el cual sucedió el evento.
-Condic_meteor: condición meteorológica en la cual sucedió el evento.
-Estado_super: el estado de la superficie en el momento del evento.
-Terreno: tipo de terreno en el cual sucedió el evento.
-Geometría_acc: geometría de la carretera en la cual sucedió el evento.
-N_heridos: número de heridos del accidente.
-N_muertos: número de muertos del accidente.
-N_víctimas: víctimas totales del accidente.
-Clase_accidente: clase del accidente.
-Causa_posible: causa posible del accidente.
+`Territorial`: municipio o región en el que ocurrió el accidente.
+`Fecha_acc`: fecha en la cual sucedió el evento.
+`Día_semana_acc`: día de la semana en el cual sucedió el evento.
+`Condic_meteor`: condición meteorológica en la cual sucedió el evento.
+`Estado_super`: el estado de la superficie en el momento del evento.
+`Terreno`: tipo de terreno en el cual sucedió el evento.
+`Geometría_acc`: geometría de la carretera en la cual sucedió el evento.
+`N_heridos`: número de heridos del accidente.
+`N_muertos`: número de muertos del accidente.
+`N_víctimas`: víctimas totales del accidente.
+`Clase_accidente`: clase del accidente.
+`Causa_posible`: causa posible del accidente.
 
 Registro del Proceso de ETL:
 
