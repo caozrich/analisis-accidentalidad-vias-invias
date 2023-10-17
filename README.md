@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="Files Logo" src="https://www.mintransporte.gov.co/info/mintransporte/media/pubInt/thumbs/thpub_700x400_11343.jpg" width="450" />
+  <h1 align=center style="color: #FF2403">Proyecto de análisis de accidentes aéreos por Richard Libreros</h1>
+</p>
+
 # analisis-accidentalidad-vias-invias
 
 Análisis de accidentes viales en vías controladas por el INVIAS en Colombia usando python 3.10 y powerBI.
@@ -72,23 +77,26 @@ analisis estadistico:
 
 ### Hallazgos
 
-* Heridos:
+#### Heridos:
 
 - El promedio de heridos por accidente es aproximadamente 0.60, lo que sugiere que, en promedio, la mayoría de los accidentes involucran a menos de una persona herida.
 - El valor máximo de 35 heridos en un solo accidente indica que hay casos extremos con un gran número de heridos, aunque son raros.
 - El 75% de los accidentes tienen 1 o menos heridos.
 
-* Muertos:
+#### Muertos:
 
 - El promedio de muertes por accidente es de aproximadamente 0.11, lo que sugiere que, en promedio, la mayoría de los accidentes no resultan en muertes.
 - El valor máximo de 9 muertes en un solo accidente indica que hay casos extremos con un número significativo de muertes, aunque también son raros.
 - El 75% de los accidentes no tienen muertes.
 
-* Victimas totales:
+#### Victimas totales:
 
 - El promedio de víctimas (heridos + muertos) por accidente es de aproximadamente 1.19, lo que sugiere que, en promedio, la mayoría de los accidentes involucran a menos de dos víctimas.
 - El valor máximo de 123 víctimas en un solo accidente indica que hay casos extremos con un gran número de víctimas, pero son muy raros.
 - El 75% de los accidentes involucran 1 o menos víctimas.
+
+
+## 3) Fase de "Visualize" (Visualizar):
 
 
 
