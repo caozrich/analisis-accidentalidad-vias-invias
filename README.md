@@ -106,6 +106,7 @@ En esta parte del análisis usaremos PowerBI para crear gráficos que nos permit
 
 [Enlace al Dahboard](https://app.powerbi.com/view?r=eyJrIjoiNzk2MWQ2NGEtOGY3YS00ZjRhLWIxOTEtMzRiZDIwM2Y1NWRkIiwidCI6ImY1ODQzMWRmLTMyNDUtNGIyMi04NjQ1LTVmZmY5ODc0NjY3MiIsImMiOjR9)
 
+Hallazgos:
 
 * Los municipios de Córdoba, Antioquia y Boyacá presentan el mayor número de accidentes registrados.
 * El año 2017 registró el mayor número de accidentes, alcanzando un pico de 1,574 en el segundo trimestre. Desde el cuarto trimestre de 2020, se observa una disminución gradual en la cantidad de accidentes.
