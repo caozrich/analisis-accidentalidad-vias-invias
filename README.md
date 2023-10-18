@@ -15,13 +15,13 @@ El Instituto Nacional de Vías (INVIAS) es una entidad gubernamental en Colombia
 
 ## 1) Fase de "Ask" (Preguntar):
 
-Objetivos del Análisis:
+### Objetivos del Análisis:
 
 Identificar Tendencias y Patrones: Analizar la evolución de la accidentalidad a lo largo del tiempo y detectar patrones estacionales, geográficos u otros en la ocurrencia de accidentes.
 
 Determinar Causas: Investigar las causas subyacentes de los accidentes, como factores climáticos, infraestructura vial, condiciones del tráfico y comportamiento del conductor, entre otros.
 
-Preguntas:
+### Preguntas:
 
 * ¿Cuál es la tendencia de accidentes en las vías controladas por el INVIAS en los últimos años?
 * ¿Cuáles son las principales causas de accidentes en estas vías?
