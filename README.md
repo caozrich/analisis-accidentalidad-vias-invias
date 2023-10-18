@@ -100,7 +100,7 @@ Registro del Proceso de ETL:
 
 ## 3) Fase de "Visualize" (Visualizar):
 
-En esta parte del analisis usaremos PowerBI para crear graficos que nos permitan detecertar posibles patrones y tendencias en los datos.
+En esta parte del análisis usaremos PowerBI para crear gráficos que nos permitan detectar posibles patrones y tendencias en los datos.
 
 ![dashboard](https://github.com/caozrich/analisis-accidentalidad-vias-invias/assets/34092193/cbd10cde-8668-4139-9933-17855936594e)
 
