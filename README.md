@@ -23,10 +23,11 @@ Determinar Causas: Investigar las causas subyacentes de los accidentes, como fac
 
 Preguntas:
 
-¿Cuál es la tendencia de accidentes en las vías controladas por el INVIAS en los últimos años?
-¿Cuáles son las principales causas de accidentes en estas vías?
-¿Existen áreas geográficas con una mayor incidencia de accidentes?
-¿Cómo ha evolucionado la gravedad de los accidentes a lo largo del tiempo?
+* ¿Cuál es la tendencia de accidentes en las vías controladas por el INVIAS en los últimos años?
+* ¿Cuáles son las principales causas de accidentes en estas vías?
+* ¿Existen áreas geográficas con una mayor incidencia de accidentes?
+* ¿Cómo ha evolucionado la gravedad de los accidentes a lo largo del tiempo?
+* 
 Fase de Preparación:
 
 ## 2) Fase de "Prepare" (Preparar):
