@@ -28,7 +28,7 @@ Preguntas:
 * ¿Existen áreas geográficas con una mayor incidencia de accidentes?
 * ¿Cómo ha evolucionado la gravedad de los accidentes a lo largo del tiempo?
 
-Fase de Preparación:
+
 
 ## 2) Fase de "Prepare" (Preparar):
 
