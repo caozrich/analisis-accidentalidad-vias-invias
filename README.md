@@ -11,7 +11,7 @@
 
 ## INTRODUCCIÓN:
 
-El Instituto Nacional de Vías (INVIAS) es una entidad gubernamental en Colombia encargada de la planificación, construcción, mantenimiento y administración de la infraestructura vial del país. El INVIAS trabaja en estrecha colaboración con el gobierno colombiano y otras entidades para asegurar que las carreteras y la infraestructura vial estén en buenas condiciones, lo cual es esencial para el comercio, la movilidad y el desarrollo económico en Colombia.
+El *Instituto Nacional de Vías (INVIAS)* es una entidad gubernamental en Colombia encargada de la planificación, construcción, mantenimiento y administración de la infraestructura vial del país. El *INVIAS* trabaja en estrecha colaboración con el gobierno colombiano y otras entidades para asegurar que las carreteras y la infraestructura vial estén en buenas condiciones, lo cual es esencial para el comercio, la movilidad y el desarrollo económico en Colombia.
 
 ## 1) Fase de "Ask" (Preguntar):
 
